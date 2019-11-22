@@ -26,3 +26,4 @@ email us at datumguy.team@gmail.com
 ### About this repository 
 
 This repository contains all the code associated with the Machine Learning Bootcamp conducted by Datum Guy in July 2019.
+# ML-Bootcamp-July-2019
